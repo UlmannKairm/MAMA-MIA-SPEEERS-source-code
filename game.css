@@ -1,0 +1,42 @@
+body {
+  background-image: url('pattern.jpg')
+}
+
+canvas {
+  background-image: url('background.gif');
+  border:15px solid lightseagreen;
+  border-radius: 15px 50px;
+}
+
+article {
+  text-align:center;
+}
+
+article h2{
+  background-color: wheat;
+}
+
+footer{
+  text-align:center;
+  background-color: black;
+  color: white;
+}
+
+section{
+  text-align:center;
+  background-color: black;
+  color: white;
+}
+
+article{
+}
+
+h1{
+  text-align: center;
+  background-color: lightseagreen;
+  color: black;
+}
+
+p:body {
+  text-align: center;
+}
